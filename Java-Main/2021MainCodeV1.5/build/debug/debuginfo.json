@@ -1,0 +1,23 @@
+[
+  {
+    "artifact": "frcJava (in project 2021MainCodeV1.2)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "2021MainCodeV1.2",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project 2021MainCodeV1.4)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "2021MainCodeV1.4",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project More-code-master)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "More-code-master",
+    "language": "java"
+  }
+]
